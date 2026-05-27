@@ -9,6 +9,8 @@
 - mushrooms
 - onions
 - salt (to taste)
+- tomato sauce
+- extra virgin olive oil
 
 
 ## Instructions
@@ -20,3 +22,4 @@
 4. Stir in the peas and cook for a few minutes until warmed through.
 5. Add the drained pasta to the pan and toss everything together.
 6. Loosen with a splash of reserved pasta water if needed, then serve warm.
+7. Throw everything in the plate and hope people like it
